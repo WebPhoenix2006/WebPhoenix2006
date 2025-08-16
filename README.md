@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @WebPhoenix2006
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me: WA-+2349046088720
-- 😄 Pronouns: ... He/Him
-- Gittroll: <a href="https://gitroll.io/profile/uz1q53lxSznP1tXrupzyODa4QdCJ3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uz1q53lxSznP1tXrupzyODa4QdCJ3" alt="GitRoll Profile Badge"/></a>
+# 👋 Hey, I'm WebPhoenix2006  
 
-<!---
-WebPhoenix2006/WebPhoenix2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Fullstack Web Developer** (since 2024)  
+💡 Passionate about building modern, scalable, and user-friendly web applications.  
+
+---
+
+## 👀 About Me  
+- 🔭 Currently working on: **Smart Inventory & Sales Management Systems**  
+- 🌱 Learning: **Advanced Django + Angular + WebSockets**  
+- 💞️ Open to: **collaborating on open-source projects**  
+- 📫 Reach me: **[WhatsApp](https://wa.me/2349046088720)**  
+- 😄 Pronouns: **He/Him**  
+
+---
+
+## 🛠 Tech Stack  
+**Frontend:** Angular • React • TailwindCSS  
+**Backend:** Django • DRF • Node.js (basics)  
+**Database:** PostgreSQL • MySQL • SQLite  
+**Other:** WebSockets • Docker • REST APIs  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WebPhoenix2006&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebPhoenix2006&layout=compact&theme=radical)  
+
+---
+
+## 🏆 GitRoll Profile  
+<a href="https://gitroll.io/profile/uz1q53lxSznP1tXrupzyODa4QdCJ3" target="_blank">
+  <img src="https://gitroll.io/api/badges/profiles/v1/uz1q53lxSznP1tXrupzyODa4QdCJ3" alt="GitRoll Profile Badge"/>
+</a>
+
+---
+
+⚡ Fun fact: *I debug faster when The Weeknd music is playing 🎧*
