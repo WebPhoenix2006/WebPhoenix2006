@@ -26,13 +26,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WebPhoenix2006&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebPhoenix2006&layout=compact&theme=radical)  
 
----
 
-## 🏆 GitRoll Profile  
-<a href="https://gitroll.io/profile/uz1q53lxSznP1tXrupzyODa4QdCJ3" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uz1q53lxSznP1tXrupzyODa4QdCJ3" alt="GitRoll Profile Badge"/>
-</a>
-
----
-
-⚡ Fun fact: *I debug faster when The Weeknd music is playing 🎧*
